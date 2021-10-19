@@ -12,6 +12,10 @@ This repository is for practising Jupyter. The main purpose is to create two Jup
 - Explanation of Deutsch’s algorithm
 - Code simulating with the use of qiskit 
 
+Furthermore, this repository is used for exercises given in Emerging Technologies course.
+1. Classification on wine quality data set
+2. Classification on iris data set
+
 ## Tech
 
 The technolgies used in this repositoty are
@@ -21,8 +25,17 @@ The technolgies used in this repositoty are
 
 ## Installation
 
+# Jupyter with Docker Compose
+This repository contains a simple docker-compose definition for launching the popular Jupyter Data Science Notebook. 
+
+Control the container:
+
+```sh
+docker-compose up 
+```
+mounts the directory and starts the container
+
+The compose file: docker-compose.yml
+
 ## Plugins
 
-## Docker
-
-Jupyter can be installed using Docker. 
