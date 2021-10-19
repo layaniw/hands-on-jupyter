@@ -12,6 +12,10 @@ This repository is for practising Jupyter. The main purpose is to create two Jup
 - Explanation of Deutsch’s algorithm
 - Code simulating with the use of qiskit 
 
+Furthermore, this repository is used for exercises given in Emerging Technologies course.
+1. Classification on wine quality data set
+2. Classification on iris data set
+
 ## Tech
 
 The technolgies used in this repositoty are
