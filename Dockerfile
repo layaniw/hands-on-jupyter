@@ -1,4 +1,4 @@
-FROM jupyter/datascience-notebook
+FROM jupyter/scipy--notebook
 WORKDIR /home/jovyan/repo
 USER root
 RUN apt update && apt -y upgrade && apt install git
