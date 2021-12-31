@@ -98,4 +98,4 @@ https://github.com/layaniw/hands-on-jupyter/blob/4226fac1f8f8e0a6dd44e8a2ccfd4c4
 
 ## Contributing to the Project
 
-Email layaniwathsala16@gmail.com in case of any queries. 
+Email layani92@outlook.com in case of any queries. 
