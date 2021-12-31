@@ -1,7 +1,5 @@
 # Jupyter Notebook
 
-[![GitHub repo file count](https://img.shields.io/github/directory-file-count/layaniw/hands-on-jupyter)]
-
 This repository is for practising Jupyter. The main purpose is to create two Jupyter Notebooks. 
 
 ## 1. Scikit-Learn Jupyter Notebook - scikit-learn.ipynb
@@ -22,7 +20,7 @@ Furthermore, this repository is utilized to practise other Machine Learning algo
 - Classification on iris data set
 - Linear Regression on wine data set
 
-## Tech
+## Technologies 
 
 The technolgies and libraries used are
 
@@ -34,7 +32,7 @@ The technolgies and libraries used are
 
 ## How to Install and Run the Project
 
-# Run Jupyter Notebooks with Docker Container
+### Run Jupyter Notebooks with Docker Container
 
 Step 1. Install Docker
 
@@ -57,7 +55,7 @@ docker-compose up
 
 This will build the docker image and run the container. You will see URLs at the end when everything is finished running in the terminal. If you are not navigated to one of those URLs automatically, you can copy-paste one of those URLs into a browser and open jupyter notebooks from there.
 
-# Run Jupyter Notebooks using Anaconda
+### Run Jupyter Notebooks using Anaconda
 
 Step 1. Install Anaconda
 
