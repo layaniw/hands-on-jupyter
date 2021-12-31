@@ -60,7 +60,8 @@ This will build the docker image and run the container. You will see URLs at the
 Step 1. Install Anaconda
 
 Install the Anaconda distribution of Python. Download Anaconda at the following link
-Anaconda.com/distribution 
+
+https://docs.anaconda.com/anaconda/install/index.html
 
 Step 2. Clone the Git Repository to your local machine 
 
