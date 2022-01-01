@@ -1,7 +1,7 @@
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/layaniw/hands-on-jupyter)](https://github.com/layaniw/hands-on-jupyter/pulls)
 [![GitHub Issues](https://img.shields.io/github/issues/layaniw/hands-on-jupyter)](https://github.com/layaniw/hands-on-jupyter/issues)
 [![GitHub Repo Size](https://img.shields.io/github/repo-size/layaniw/hands-on-jupyter)](https://github.com/layaniw/hands-on-jupyter/usuals)
-[![License](https://img.shields.io/github/license/layaniw/hands-on-jupyter?color=yellow)(https://github.com/layaniw/hands-on-jupyter/usuals)
+[![License](https://img.shields.io/github/license/layaniw/hands-on-jupyter?color=yellow)](https://github.com/layaniw/hands-on-jupyter/usuals)
 [![GitHub Fork](https://img.shields.io/github/forks/layaniw/hands-on-jupyter?style=social)](https://github.com/layaniw/hands-on-jupyter/usuals)
 [![Stars](https://img.shields.io/github/stars/layaniw/hands-on-jupyter?style=social)](https://github.com/layaniw/hands-on-jupyter/usuals)
 
@@ -36,7 +36,6 @@ The technolgies and libraries used are
 - Docker
 - scikit-learn Python library
 - qiskit 
-<<<<<<< HEAD
 
 ## How to Install and Run the Project
 
@@ -55,26 +54,6 @@ https://github.com/layaniw/hands-on-jupyter.git
 ```
 Step 3. Run the notebooks
 
-=======
-
-## How to Install and Run the Project
-
-### Run Jupyter Notebooks with Docker Container
-
-Step 1. Install Docker
-
-Use the link below to install Docker according to your operating system.
-
-https://docs.docker.com/engine/install/
-
-Step 2. Clone the Git Repository to your local machine 
-
-```sh
-https://github.com/layaniw/hands-on-jupyter.git
-```
-Step 3. Run the notebooks
-
->>>>>>> d943b5b2818cde383febdbda8c050cd7ae62b3b9
 Start Docker and navigate to the directory where the Dockerfile from this repository is stored. Open a command prompt and run
 
 ```sh
