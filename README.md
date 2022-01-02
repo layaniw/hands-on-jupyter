@@ -1,42 +1,60 @@
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/layaniw/hands-on-jupyter)](https://github.com/layaniw/hands-on-jupyter/pulls)
-[![GitHub Issues](https://img.shields.io/github/issues/layaniw/hands-on-jupyter)](https://github.com/layaniw/hands-on-jupyter/issues)
+[![GitHub Issues](https://img.shields.io/github/issues/layaniw/hands-on-jupyter?color=yellow)](https://github.com/layaniw/hands-on-jupyter/issues)
 [![GitHub Repo Size](https://img.shields.io/github/repo-size/layaniw/hands-on-jupyter)](https://github.com/layaniw/hands-on-jupyter/usuals)
-[![License](https://img.shields.io/github/license/layaniw/hands-on-jupyter?color=yellow)(https://github.com/layaniw/hands-on-jupyter/usuals)
+[![License](https://img.shields.io/github/license/layaniw/hands-on-jupyter?color=purple)](https://github.com/layaniw/hands-on-jupyter/usuals)
 [![GitHub Fork](https://img.shields.io/github/forks/layaniw/hands-on-jupyter?style=social)](https://github.com/layaniw/hands-on-jupyter/usuals)
 [![Stars](https://img.shields.io/github/stars/layaniw/hands-on-jupyter?style=social)](https://github.com/layaniw/hands-on-jupyter/usuals)
 
 # Jupyter Notebook
 
-This repository is for practising Jupyter. The main purpose is to create two Jupyter Notebooks. 
+This repository is for practising Jupyter. The main purpose is to create two Jupyter Notebooks.
 
-## 1. Scikit-Learn Jupyter Notebook - scikit-learn.ipynb
+## 1. Scikit-Learn Jupyter Notebook : scikit-learn.ipynb
+
 - Overview of the scikit-learn Python library
 - Demonstration of scikit-learn algorithms
-  -  Random Forest Classification
-  -  Linear Regression
-  -  K-means Clustering 
+  - Random Forest Classification
+  - Linear Regression
+  - K-means Clustering
 - plots and other visualisations
 
-## 2. Quantum Computing Jupyter Notebook - quantum-deutsch.ipynb 
+## 2. Quantum Computing Jupyter Notebook : quantum-deutsch.ipynb
+
 - Comparison of quantum computing and classical computing
 - Explanation of Deutsch’s algorithm
-- Code simulation using qiskit 
+- Code simulation using qiskit
 
-Furthermore, this repository is utilized to practise other Machine Learning algorithms on several data sets, included in the Weekly Tasks folder. 
+Furthermore, this repository is utilized to practise other Machine Learning algorithms on several data sets, included in the Weekly Tasks folder.
+
 - Classification on wine quality data set
 - Classification on iris data set
 - Linear Regression on wine data set
 
-## Technologies 
+## Quick Way to Access the Notebooks
 
-The technolgies and libraries used are
+### Static Form
+
+1. Scikit-Learn Jupyter Notebook [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/layaniw/hands-on-jupyter/blob/main/scikit-learn.ipynb)
+
+2. Quantum Computing Jupyter Notebook [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/layaniw/hands-on-jupyter/blob/main/quantum-deutsch.ipynb)
+
+### Dynamic Form
+
+1. Scikit-Learn Jupyter Notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/layaniw/hands-on-jupyter/HEAD?labpath=scikit-learn.ipynb)
+
+2. Quantum Computing Jupyter Notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/layaniw/hands-on-jupyter/HEAD?labpath=quantum-deutsch.ipynb)
+
+## Technologies
+
+The technologies and libraries used are
 
 - Jupyter
 - Anaconda
 - Docker
 - scikit-learn Python library
-- qiskit 
-<<<<<<< HEAD
+- qiskit
+- nbviewer
+- Binder
 
 ## How to Install and Run the Project
 
@@ -48,37 +66,18 @@ Use the link below to install Docker according to your operating system.
 
 https://docs.docker.com/engine/install/
 
-Step 2. Clone the Git Repository to your local machine 
+Step 2. Clone the Git Repository to your local machine
 
 ```sh
 https://github.com/layaniw/hands-on-jupyter.git
 ```
+
 Step 3. Run the notebooks
 
-=======
-
-## How to Install and Run the Project
-
-### Run Jupyter Notebooks with Docker Container
-
-Step 1. Install Docker
-
-Use the link below to install Docker according to your operating system.
-
-https://docs.docker.com/engine/install/
-
-Step 2. Clone the Git Repository to your local machine 
-
-```sh
-https://github.com/layaniw/hands-on-jupyter.git
-```
-Step 3. Run the notebooks
-
->>>>>>> d943b5b2818cde383febdbda8c050cd7ae62b3b9
 Start Docker and navigate to the directory where the Dockerfile from this repository is stored. Open a command prompt and run
 
 ```sh
-docker-compose up 
+docker-compose up
 ```
 
 This will build the docker image and run the container. You will see URLs at the end when everything is finished running in the terminal. If you are not navigated to one of those URLs automatically, you can copy-paste one of those URLs into a browser and open jupyter notebooks from there.
@@ -91,7 +90,7 @@ Install the Anaconda distribution of Python. Download Anaconda at the following 
 
 https://docs.anaconda.com/anaconda/install/index.html
 
-Step 2. Clone the Git Repository to your local machine 
+Step 2. Clone the Git Repository to your local machine
 
 ```sh
 https://github.com/layaniw/hands-on-jupyter.git
@@ -111,7 +110,7 @@ This command will start the Jupyter notebook server. The output in the Anaconda 
 
 ## Credits
 
-Credit should go to Dr Ian McLoughlin (ian.mcloughlin@gmit.ie), whose instructions and guidance helped in build this repository. 
+Credit should go to Dr Ian McLoughlin (ian.mcloughlin@gmit.ie), whose instructions and guidance helped in build this repository.
 
 References :
 
@@ -126,4 +125,4 @@ https://github.com/layaniw/hands-on-jupyter/blob/4226fac1f8f8e0a6dd44e8a2ccfd4c4
 
 ## Contributing to the Project
 
-Email layani92@outlook.com in case of any queries. 
+Email layani92@outlook.com in case of any queries.
