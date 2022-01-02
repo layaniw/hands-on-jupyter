@@ -1,7 +1,11 @@
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/layaniw/hands-on-jupyter)](https://github.com/layaniw/hands-on-jupyter/pulls)
 [![GitHub Issues](https://img.shields.io/github/issues/layaniw/hands-on-jupyter?color=yellow)](https://github.com/layaniw/hands-on-jupyter/issues)
 [![GitHub Repo Size](https://img.shields.io/github/repo-size/layaniw/hands-on-jupyter)](https://github.com/layaniw/hands-on-jupyter/usuals)
+<<<<<<< HEAD
 [![License](https://img.shields.io/github/license/layaniw/hands-on-jupyter?color=purple)](https://github.com/layaniw/hands-on-jupyter/usuals)
+=======
+[![License](https://img.shields.io/github/license/layaniw/hands-on-jupyter?color=yellow)](https://github.com/layaniw/hands-on-jupyter/usuals)
+>>>>>>> 41e69825ce351f2ba16a5071a34ff046f113cae8
 [![GitHub Fork](https://img.shields.io/github/forks/layaniw/hands-on-jupyter?style=social)](https://github.com/layaniw/hands-on-jupyter/usuals)
 [![Stars](https://img.shields.io/github/stars/layaniw/hands-on-jupyter?style=social)](https://github.com/layaniw/hands-on-jupyter/usuals)
 
@@ -34,7 +38,15 @@ Furthermore, this repository is utilized to practise other Machine Learning algo
 
 ### Static Form
 
+<<<<<<< HEAD
 1. Scikit-Learn Jupyter Notebook [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/layaniw/hands-on-jupyter/blob/main/scikit-learn.ipynb)
+=======
+- Jupyter
+- Anaconda
+- Docker
+- scikit-learn Python library
+- qiskit 
+>>>>>>> 41e69825ce351f2ba16a5071a34ff046f113cae8
 
 2. Quantum Computing Jupyter Notebook [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/layaniw/hands-on-jupyter/blob/main/quantum-deutsch.ipynb)
 
@@ -48,6 +60,7 @@ Furthermore, this repository is utilized to practise other Machine Learning algo
 
 The technologies and libraries used are
 
+<<<<<<< HEAD
 - Jupyter
 - Anaconda
 - Docker
@@ -74,6 +87,8 @@ https://github.com/layaniw/hands-on-jupyter.git
 
 Step 3. Run the notebooks
 
+=======
+>>>>>>> 41e69825ce351f2ba16a5071a34ff046f113cae8
 Start Docker and navigate to the directory where the Dockerfile from this repository is stored. Open a command prompt and run
 
 ```sh
